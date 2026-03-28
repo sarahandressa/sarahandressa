@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="banner.png" alt="Sarah Andressa Garcia Diaz Profile Banner" width="100%">
+
 # Sarah Andressa Garcia Diaz
 
 Hello, GitHub! 👋
